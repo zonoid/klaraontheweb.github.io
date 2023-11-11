@@ -1,0 +1,267 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Gerald Zalsos
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ijinfx@gmail.com
+    phone: +63 936 732 0891
+    timezone: Philippine Standard Time
+    citizenship: Filipino
+    website: zonoid.github.io
+    linkedin: ijinfx
+    xing: 
+    github: zonoid
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@ijinfx'
+    stack-overflow: 21209127/zonoid
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Filipino
+          level: Native
+
+        - idiom: Cebuano
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Video Games
+          link:
+          icon: gamepad
+
+        - item: Cooking
+          link:
+          icon: utensils
+
+        - item: Reading
+          link:
+          icon: book
+
+career-profile:
+    title: Career Profile
+    summary: |
+      An accomplished Full Stack Developer with over a decade of expertise in web development. Specialized in Joomla and WordPress development, with a strong proficiency in both front-end and back-end development. Possesses robust skills in Object-Oriented Programming (OOP) principles, software design patterns, and SQL, enabling the creation of scalable and maintainable code. Adept in software testing and debugging, with a comprehensive understanding of SEO, e-commerce, and API integration. Demonstrated success in consistently delivering high-quality projects within deadlines and budget constraints. Possesses exceptional collaboration and communication abilities. Remains abreast of the latest web development trends and technologies, consistently pursuing opportunities for skill and knowledge enhancement.
+education:
+    title: Education
+    info:
+      - degree: BS in Computer Engineering
+        university: Technological Institute of the Philippines
+        time: 2002 - 2005
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: Diploma in Mechanical Engineering Technology
+        university: MSU - Iligan Institute of Technology
+        time: 2000 - 2002
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+experiences:
+    title: Experiences
+    info:
+      - role: WordPress Developer
+        time: July 2023 - Present
+        company: US Realty Hub, LLC | Orlando, Florida
+        details: |
+          As a WordPress Developer, I am entrusted with the design and development of dynamic web applications within the WordPress framework. Leveraging over a decade of experience as a Full Stack Developer, I bring a comprehensive skill set to create seamless user experiences and implement tailored solutions. Key highlights of my contributions include:
+            - Developing and customizing WordPress themes and plugins to meet project requirements, ensuring a responsive and visually appealing user interface.            
+            - Utilizing PHP and other technologies to integrate RESTful APIs and web services, enhancing the functionality and interactivity of WordPress websites.
+            - Collaborating with UI/UX designers to create visually compelling and user-friendly interfaces, ensuring a positive and intuitive user experience.
+            - Implementing and optimizing payment gateways such as PayPal and Stripe for secure and efficient online transactions.
+            - Extending expertise in troubleshooting, debugging, and resolving issues promptly to maintain optimal website performance and user satisfaction.
+            - Integrating various APIs, including but not limited to Dropbox and Zoho, to streamline processes, enhance functionality, and improve data management within WordPress applications.          
+            - Managing server infrastructure, conducting database management, and ensuring continuous monitoring for optimal website functionality.
+      - role: Full Stack Developer
+        time: 2018 - June, 2023
+        company: Jdonate.com | Knoxville, Tennessee
+        details: |
+          As a Full Stack Developer, I have designed and developed web applications 
+          using a range of technologies such as HTML, CSS, JavaScript, and various 
+          frameworks. I have utilized server-side technologies like PHP to build RESTful
+          APIs and web services, and have integrated with third-party services like 
+          PayPal, Stripe, and CloudConvert.com to enable online payments, file conversions, 
+          and other features. Additionally, I have experience with server maintenance, 
+          database management, deployment to cloud platforms, version control, automated 
+          testing, code review, and troubleshooting.
+            - Designed and developed full stack web applications using technologies such as HTML, CSS, JavaScript, and various frameworks            
+            - Utilized server-side technologies such as PHP to build RESTful APIs and web services
+            - Integrated payment gateways such as PayPal and Stripe to process online payments securely and efficiently
+            - Integrated CloudConvert.com API to enable file conversion and manipulation within the application
+            - Developed custom Joomla and WordPress themes and plugins to meet project requirements
+            - Collaborated with UI/UX designers to create responsive and visually appealing user interfaces
+            - Managed and maintained the application server, including OS upgrades, security patches, and server configuration changes
+            - Monitored server logs to identify and resolve issues related to server performance and application uptime
+            - Integrated with third-party services such as authentication providers and social media platforms to enhance user experience
+            - Built and maintained databases using technologies such as MySQL, MongoDB, and PostgreSQL            
+            - Used version control systems such as Git to manage codebase and collaborate with other developers            
+            - Troubleshot and debugged issues in a timely manner to maintain uptime and user experience            
+      - role: Joomla Developer
+        time: 2013 - 2017
+        company: Sourcecoast.com | Austin, Texas
+        details: |
+          As a Joomla Developer for JFBConnect extension, I developed
+          and maintained the integration of Joomla websites with social
+          networks such as Facebook, Twitter, and LinkedIn. I customized
+          the extension to meet specific client requirements, built new
+          features, and enhanced existing ones. I worked with the support
+          team, conducted code reviews, collaborated with the product
+          team, and participated in the release process. I stayed up 
+          to date with the latest Joomla technologies, social networking 
+          trends, and user needs. I provided training and support to 
+          clients and contributed to the JFBConnect community.           
+            - Developed and maintained JFBConnect, a Joomla extension that integrates Joomla websites with social networks like Facebook, Twitter, LinkedIn, and more.
+            - Customized the extension to meet specific client requirements, ensuring seamless integration with their websites and social media accounts.
+            - Built new features and enhanced existing ones to provide users with a rich and dynamic social networking experience.
+            - Worked closely with the support team to troubleshoot issues, diagnose problems, and provide effective solutions to users.
+            - Conducted code reviews and wrote technical documentation to ensure that JFBConnect adhered to best practices and standards.
+            - Collaborated with the product team to define product roadmaps, set priorities, and deliver features that met user needs and expectations.
+            - Participated in the extension's release process, including testing, debugging, and documentation.
+            - Kept up to date with the latest Joomla technologies, trends in social networking, and user needs to maintain JFBConnect's competitive edge.
+            - Provided training and support to clients, including installation, configuration, and customization of the extension.           
+      - role: Joomla Developer
+        time: 2010 - 2012
+        company: Dioscouri Design | New York, New York
+        details: |
+          As a Joomla Developer, I added new features and fixed bugs 
+          for existing Joomla extensions, such as Tienda, Billets, 
+          and Amigos, using PHP and Joomla framework. I worked 
+          collaboratively with project managers, designers, and 
+          other developers to meet client requirements and provide 
+          high-quality solutions. Additionally, I conducted testing 
+          and debugging, integrated third-party APIs and plugins, 
+          and provided technical support to clients. I regularly 
+          updated and maintained Joomla extensions, participated in 
+          code reviews, and implemented best practices for Joomla development.
+            - Worked on developing new features and improving existing ones for Joomla extensions such as Tienda, Billets, and Amigos.
+            - Conducted thorough testing and debugging to fix any bugs and ensure optimal performance of Joomla extensions.
+            - Collaborated with the team to identify and implement solutions for any issues or challenges that arose during development.
+            - Regularly updated and maintained Joomla extensions to ensure compatibility with the latest versions of Joomla and other web technologies.
+            - Provided technical support to clients and resolved any issues related to Joomla extensions, including fixing bugs and addressing any user concerns.
+            - Participated in code reviews and implemented best practices for Joomla development, including efficient coding techniques, adherence to coding standards, and documentation practices.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: PHP
+        level: 98%
+
+      - name: Joomla
+        level: 98%
+
+      - name: Wordpress
+        level: 98%
+
+      - name: Javascript
+        level: 98%
+
+      - name: React & Vue
+        level: 70%
+
+      - name: HTML5 & CSS
+        level: 98%
+
+      - name: Database Management
+        level: 98%
+
+      - name: Website Administration
+        level: 98%
+
+      - name: Sketch & Photoshop
+        level: 70%
